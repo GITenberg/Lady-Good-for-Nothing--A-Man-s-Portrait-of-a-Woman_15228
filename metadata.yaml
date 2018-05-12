@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3579
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15228#Lady-Good-for-Nothing--A-Man-s-Portrait-of-a-Woman
 gutenberg_issued: '2005-03-02'
 gutenberg_type: Text
 identifiers:
